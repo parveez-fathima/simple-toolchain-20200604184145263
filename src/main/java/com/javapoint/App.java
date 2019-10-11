@@ -49,7 +49,7 @@ public class App {
 	      logger.fatal("Damn! Fatal error. Please fix me.");   
 
         
-    	return "Hello World! JavaInterviewPoint";
+    	return "Hellooooooooooo World!";
     }
 
     public static void main(String[] args) throws Exception {
